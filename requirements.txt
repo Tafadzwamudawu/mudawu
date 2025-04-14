@@ -1,0 +1,5 @@
+pandas
+fpdf
+yagmail
+openpyxl
+python-dotenv
